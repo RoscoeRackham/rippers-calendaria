@@ -4,6 +4,8 @@
 	"description": "Drives Calendaria's world clock to the exact 1892 Almanack: the Gregorian year starting Friday 1 January 1892 (leap), an Earth moon whose 49 quarter-phases — including all 12 mechanically-live full moons — land on their real historical dates via Calendaria's anchorPhases config, and all 60 campaign events seeded as GM notes. Foundry VTT v13. Integrates against Calendaria release-1.0.17 (the last v13-compatible build — install 1.0.17 specifically, NOT latest). Original campaign content; a personal-table module, not for redistribution.",
 	"version": "0.1.0",
 	"url": "https://github.com/RoscoeRackham/rippers-calendaria",
+	"manifest": "https://github.com/RoscoeRackham/rippers-calendaria/releases/latest/download/module.json",
+	"download": "https://github.com/RoscoeRackham/rippers-calendaria/releases/latest/download/rippers-calendaria.zip",
 	"compatibility": {
 		"minimum": "13",
 		"verified": "13",
