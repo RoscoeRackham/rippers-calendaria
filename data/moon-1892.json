@@ -1,0 +1,408 @@
+{
+	"name": "Luna",
+	"cycleLength": 29.53059,
+	"color": "#C0C0C0",
+	"phaseMode": "fixed",
+	"referencePhase": 0,
+	"referenceDate": {
+		"year": 1892,
+		"month": 0,
+		"dayOfMonth": 28
+	},
+	"anchorPhases": {
+		"a0107": {
+			"year": 1892,
+			"month": 0,
+			"dayOfMonth": 6,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0114": {
+			"year": 1892,
+			"month": 0,
+			"dayOfMonth": 13,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0122": {
+			"year": 1892,
+			"month": 0,
+			"dayOfMonth": 21,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0129": {
+			"year": 1892,
+			"month": 0,
+			"dayOfMonth": 28,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0205": {
+			"year": 1892,
+			"month": 1,
+			"dayOfMonth": 4,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0212": {
+			"year": 1892,
+			"month": 1,
+			"dayOfMonth": 11,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0221": {
+			"year": 1892,
+			"month": 1,
+			"dayOfMonth": 20,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0228": {
+			"year": 1892,
+			"month": 1,
+			"dayOfMonth": 27,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0305": {
+			"year": 1892,
+			"month": 2,
+			"dayOfMonth": 4,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0313": {
+			"year": 1892,
+			"month": 2,
+			"dayOfMonth": 12,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0321": {
+			"year": 1892,
+			"month": 2,
+			"dayOfMonth": 20,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0328": {
+			"year": 1892,
+			"month": 2,
+			"dayOfMonth": 27,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0404": {
+			"year": 1892,
+			"month": 3,
+			"dayOfMonth": 3,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0412": {
+			"year": 1892,
+			"month": 3,
+			"dayOfMonth": 11,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0420": {
+			"year": 1892,
+			"month": 3,
+			"dayOfMonth": 19,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0426": {
+			"year": 1892,
+			"month": 3,
+			"dayOfMonth": 25,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0503": {
+			"year": 1892,
+			"month": 4,
+			"dayOfMonth": 2,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0511": {
+			"year": 1892,
+			"month": 4,
+			"dayOfMonth": 10,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0519": {
+			"year": 1892,
+			"month": 4,
+			"dayOfMonth": 18,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0526": {
+			"year": 1892,
+			"month": 4,
+			"dayOfMonth": 25,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0602": {
+			"year": 1892,
+			"month": 5,
+			"dayOfMonth": 1,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0610": {
+			"year": 1892,
+			"month": 5,
+			"dayOfMonth": 9,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0617": {
+			"year": 1892,
+			"month": 5,
+			"dayOfMonth": 16,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0624": {
+			"year": 1892,
+			"month": 5,
+			"dayOfMonth": 23,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0702": {
+			"year": 1892,
+			"month": 6,
+			"dayOfMonth": 1,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0710": {
+			"year": 1892,
+			"month": 6,
+			"dayOfMonth": 9,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0717": {
+			"year": 1892,
+			"month": 6,
+			"dayOfMonth": 16,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0723": {
+			"year": 1892,
+			"month": 6,
+			"dayOfMonth": 22,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0731": {
+			"year": 1892,
+			"month": 6,
+			"dayOfMonth": 30,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0808": {
+			"year": 1892,
+			"month": 7,
+			"dayOfMonth": 7,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0815": {
+			"year": 1892,
+			"month": 7,
+			"dayOfMonth": 14,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0822": {
+			"year": 1892,
+			"month": 7,
+			"dayOfMonth": 21,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0830": {
+			"year": 1892,
+			"month": 7,
+			"dayOfMonth": 29,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a0906": {
+			"year": 1892,
+			"month": 8,
+			"dayOfMonth": 5,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a0913": {
+			"year": 1892,
+			"month": 8,
+			"dayOfMonth": 12,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a0921": {
+			"year": 1892,
+			"month": 8,
+			"dayOfMonth": 20,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a0929": {
+			"year": 1892,
+			"month": 8,
+			"dayOfMonth": 28,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a1006": {
+			"year": 1892,
+			"month": 9,
+			"dayOfMonth": 5,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a1012": {
+			"year": 1892,
+			"month": 9,
+			"dayOfMonth": 11,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a1020": {
+			"year": 1892,
+			"month": 9,
+			"dayOfMonth": 19,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a1028": {
+			"year": 1892,
+			"month": 9,
+			"dayOfMonth": 27,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a1104": {
+			"year": 1892,
+			"month": 10,
+			"dayOfMonth": 3,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a1111": {
+			"year": 1892,
+			"month": 10,
+			"dayOfMonth": 10,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a1119": {
+			"year": 1892,
+			"month": 10,
+			"dayOfMonth": 18,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a1127": {
+			"year": 1892,
+			"month": 10,
+			"dayOfMonth": 26,
+			"phaseIndex": 2,
+			"resetCycle": true
+		},
+		"a1204": {
+			"year": 1892,
+			"month": 11,
+			"dayOfMonth": 3,
+			"phaseIndex": 4,
+			"resetCycle": true
+		},
+		"a1211": {
+			"year": 1892,
+			"month": 11,
+			"dayOfMonth": 10,
+			"phaseIndex": 6,
+			"resetCycle": true
+		},
+		"a1219": {
+			"year": 1892,
+			"month": 11,
+			"dayOfMonth": 18,
+			"phaseIndex": 0,
+			"resetCycle": true
+		},
+		"a1226": {
+			"year": 1892,
+			"month": 11,
+			"dayOfMonth": 25,
+			"phaseIndex": 2,
+			"resetCycle": true
+		}
+	},
+	"phases": {
+		"newmoon000000000": {
+			"name": "CALENDARIA.MoonPhase.NewMoon",
+			"icon": "modules/calendaria/assets/moon-phases/01_newmoon.svg",
+			"start": 0,
+			"end": 0.125
+		},
+		"waxingcrescent00": {
+			"name": "CALENDARIA.MoonPhase.WaxingCrescent",
+			"icon": "modules/calendaria/assets/moon-phases/02_waxingcrescent.svg",
+			"start": 0.125,
+			"end": 0.25
+		},
+		"firstquarter0000": {
+			"name": "CALENDARIA.MoonPhase.FirstQuarter",
+			"icon": "modules/calendaria/assets/moon-phases/03_firstquarter.svg",
+			"start": 0.25,
+			"end": 0.375
+		},
+		"waxinggibbous000": {
+			"name": "CALENDARIA.MoonPhase.WaxingGibbous",
+			"icon": "modules/calendaria/assets/moon-phases/04_waxinggibbous.svg",
+			"start": 0.375,
+			"end": 0.5
+		},
+		"fullmoon00000000": {
+			"name": "CALENDARIA.MoonPhase.FullMoon",
+			"icon": "modules/calendaria/assets/moon-phases/05_fullmoon.svg",
+			"start": 0.5,
+			"end": 0.625
+		},
+		"waninggibbous000": {
+			"name": "CALENDARIA.MoonPhase.WaningGibbous",
+			"icon": "modules/calendaria/assets/moon-phases/06_waninggibbous.svg",
+			"start": 0.625,
+			"end": 0.75
+		},
+		"lastquarter00000": {
+			"name": "CALENDARIA.MoonPhase.LastQuarter",
+			"icon": "modules/calendaria/assets/moon-phases/07_lastquarter.svg",
+			"start": 0.75,
+			"end": 0.875
+		},
+		"waningcrescent00": {
+			"name": "CALENDARIA.MoonPhase.WaningCrescent",
+			"icon": "modules/calendaria/assets/moon-phases/08_waningcrescent.svg",
+			"start": 0.875,
+			"end": 1
+		}
+	},
+	"eclipseMode": "never"
+}

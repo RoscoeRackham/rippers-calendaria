@@ -1,0 +1,46 @@
+{
+	"id": "rippers-calendaria",
+	"title": "Rippers Unmasked — 1892 Calendaria",
+	"description": "Drives Calendaria's world clock to the exact 1892 Almanack: the Gregorian year starting Friday 1 January 1892 (leap), an Earth moon whose 49 quarter-phases — including all 12 mechanically-live full moons — land on their real historical dates via Calendaria's anchorPhases config, and all 60 campaign events seeded as GM notes. Foundry VTT v13. Integrates against Calendaria release-1.0.17 (the last v13-compatible build — install 1.0.17 specifically, NOT latest). Original campaign content; a personal-table module, not for redistribution.",
+	"version": "0.1.0",
+	"url": "https://github.com/RoscoeRackham/rippers-calendaria",
+	"compatibility": {
+		"minimum": "13",
+		"verified": "13",
+		"maximum": "13"
+	},
+	"authors": [
+		{
+			"name": "Austin (cubemail.exe)"
+		}
+	],
+	"esmodules": [
+		"scripts/rippers-calendaria.mjs"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"id": "calendaria",
+				"type": "module",
+				"manifest": "https://github.com/Sayshal/Calendaria/releases/download/release-1.0.17/module.json",
+				"compatibility": {
+					"minimum": "1.0.17",
+					"verified": "1.0.17"
+				},
+				"reason": "Hosts the world clock, moon, and notes. Pin release-1.0.17 — the last Foundry-v13-compatible Calendaria (1.1.0+ are v14-only). The 1892 moon uses Calendaria's phaseMode:'fixed' + anchorPhases, present in 1.0.17."
+			}
+		]
+	},
+	"flags": {
+		"rippers-calendaria": {
+			"note": "Runtime integration only — no packs. On Calendaria's `calendaria.ready` hook this module derives a `rippers-1892` calendar from Calendaria's live `gregorian` (splicing in an Earth moon with a 49-entry anchorPhases table generated from lodge-docs/almanack-1892-data by tools/build-calendaria.mjs), registers it via CALENDARIA.api.addCalendar, persists it into Calendaria's customCalendars setting, and on first run (GM) sets it active, sets the date to 1 Jan 1892, seeds 60 GM notes, and builds a GM almanac journal. All 12 full moons land on their exact real dates via #findExactAnchor. No monkey-patching, no v12-removed hooks. Clearing the world flag rippers-calendaria.setupComplete re-runs first-run setup."
+		}
+	}
+}

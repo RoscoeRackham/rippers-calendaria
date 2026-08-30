@@ -1,0 +1,3313 @@
+{
+	"note": "1892 London daily sunrise/sunset (GMT) + moon illum. Parked for the GM almanac journal; NOT fed to the Calendaria clock.",
+	"months": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"days": [
+		{
+			"date": "1892-01-01",
+			"month": 0,
+			"day": 1,
+			"sunrise": "08:06",
+			"sunset": "16:01",
+			"illum_pct": 4,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-02",
+			"month": 0,
+			"day": 2,
+			"sunrise": "08:06",
+			"sunset": "16:02",
+			"illum_pct": 9,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-03",
+			"month": 0,
+			"day": 3,
+			"sunrise": "08:06",
+			"sunset": "16:04",
+			"illum_pct": 17,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-04",
+			"month": 0,
+			"day": 4,
+			"sunrise": "08:06",
+			"sunset": "16:05",
+			"illum_pct": 26,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-05",
+			"month": 0,
+			"day": 5,
+			"sunrise": "08:05",
+			"sunset": "16:06",
+			"illum_pct": 37,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-06",
+			"month": 0,
+			"day": 6,
+			"sunrise": "08:05",
+			"sunset": "16:07",
+			"illum_pct": 48,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-07",
+			"month": 0,
+			"day": 7,
+			"sunrise": "08:05",
+			"sunset": "16:08",
+			"illum_pct": 59,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-08",
+			"month": 0,
+			"day": 8,
+			"sunrise": "08:04",
+			"sunset": "16:10",
+			"illum_pct": 70,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-09",
+			"month": 0,
+			"day": 9,
+			"sunrise": "08:04",
+			"sunset": "16:11",
+			"illum_pct": 80,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-10",
+			"month": 0,
+			"day": 10,
+			"sunrise": "08:03",
+			"sunset": "16:12",
+			"illum_pct": 88,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-11",
+			"month": 0,
+			"day": 11,
+			"sunrise": "08:03",
+			"sunset": "16:14",
+			"illum_pct": 94,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-12",
+			"month": 0,
+			"day": 12,
+			"sunrise": "08:02",
+			"sunset": "16:15",
+			"illum_pct": 98,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-13",
+			"month": 0,
+			"day": 13,
+			"sunrise": "08:01",
+			"sunset": "16:17",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-14",
+			"month": 0,
+			"day": 14,
+			"sunrise": "08:01",
+			"sunset": "16:18",
+			"illum_pct": 99,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-15",
+			"month": 0,
+			"day": 15,
+			"sunrise": "08:00",
+			"sunset": "16:20",
+			"illum_pct": 97,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-16",
+			"month": 0,
+			"day": 16,
+			"sunrise": "07:59",
+			"sunset": "16:21",
+			"illum_pct": 92,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-17",
+			"month": 0,
+			"day": 17,
+			"sunrise": "07:58",
+			"sunset": "16:23",
+			"illum_pct": 86,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-18",
+			"month": 0,
+			"day": 18,
+			"sunrise": "07:57",
+			"sunset": "16:25",
+			"illum_pct": 79,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-19",
+			"month": 0,
+			"day": 19,
+			"sunrise": "07:56",
+			"sunset": "16:26",
+			"illum_pct": 71,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-20",
+			"month": 0,
+			"day": 20,
+			"sunrise": "07:55",
+			"sunset": "16:28",
+			"illum_pct": 62,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-21",
+			"month": 0,
+			"day": 21,
+			"sunrise": "07:54",
+			"sunset": "16:29",
+			"illum_pct": 53,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-22",
+			"month": 0,
+			"day": 22,
+			"sunrise": "07:53",
+			"sunset": "16:31",
+			"illum_pct": 44,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-23",
+			"month": 0,
+			"day": 23,
+			"sunrise": "07:52",
+			"sunset": "16:33",
+			"illum_pct": 34,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-24",
+			"month": 0,
+			"day": 24,
+			"sunrise": "07:50",
+			"sunset": "16:35",
+			"illum_pct": 25,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-25",
+			"month": 0,
+			"day": 25,
+			"sunrise": "07:49",
+			"sunset": "16:36",
+			"illum_pct": 17,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-26",
+			"month": 0,
+			"day": 26,
+			"sunrise": "07:48",
+			"sunset": "16:38",
+			"illum_pct": 10,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-27",
+			"month": 0,
+			"day": 27,
+			"sunrise": "07:47",
+			"sunset": "16:40",
+			"illum_pct": 4,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-28",
+			"month": 0,
+			"day": 28,
+			"sunrise": "07:45",
+			"sunset": "16:42",
+			"illum_pct": 1,
+			"waxing": false
+		},
+		{
+			"date": "1892-01-29",
+			"month": 0,
+			"day": 29,
+			"sunrise": "07:44",
+			"sunset": "16:43",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-30",
+			"month": 0,
+			"day": 30,
+			"sunrise": "07:42",
+			"sunset": "16:45",
+			"illum_pct": 2,
+			"waxing": true
+		},
+		{
+			"date": "1892-01-31",
+			"month": 0,
+			"day": 31,
+			"sunrise": "07:41",
+			"sunset": "16:47",
+			"illum_pct": 7,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-01",
+			"month": 1,
+			"day": 1,
+			"sunrise": "07:39",
+			"sunset": "16:49",
+			"illum_pct": 13,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-02",
+			"month": 1,
+			"day": 2,
+			"sunrise": "07:38",
+			"sunset": "16:51",
+			"illum_pct": 22,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-03",
+			"month": 1,
+			"day": 3,
+			"sunrise": "07:36",
+			"sunset": "16:52",
+			"illum_pct": 33,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-04",
+			"month": 1,
+			"day": 4,
+			"sunrise": "07:35",
+			"sunset": "16:54",
+			"illum_pct": 44,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-05",
+			"month": 1,
+			"day": 5,
+			"sunrise": "07:33",
+			"sunset": "16:56",
+			"illum_pct": 55,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-06",
+			"month": 1,
+			"day": 6,
+			"sunrise": "07:31",
+			"sunset": "16:58",
+			"illum_pct": 66,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-07",
+			"month": 1,
+			"day": 7,
+			"sunrise": "07:30",
+			"sunset": "17:00",
+			"illum_pct": 76,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-08",
+			"month": 1,
+			"day": 8,
+			"sunrise": "07:28",
+			"sunset": "17:02",
+			"illum_pct": 84,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-09",
+			"month": 1,
+			"day": 9,
+			"sunrise": "07:26",
+			"sunset": "17:03",
+			"illum_pct": 91,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-10",
+			"month": 1,
+			"day": 10,
+			"sunrise": "07:24",
+			"sunset": "17:05",
+			"illum_pct": 96,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-11",
+			"month": 1,
+			"day": 11,
+			"sunrise": "07:23",
+			"sunset": "17:07",
+			"illum_pct": 99,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-12",
+			"month": 1,
+			"day": 12,
+			"sunrise": "07:21",
+			"sunset": "17:09",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-13",
+			"month": 1,
+			"day": 13,
+			"sunrise": "07:19",
+			"sunset": "17:11",
+			"illum_pct": 99,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-14",
+			"month": 1,
+			"day": 14,
+			"sunrise": "07:17",
+			"sunset": "17:12",
+			"illum_pct": 96,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-15",
+			"month": 1,
+			"day": 15,
+			"sunrise": "07:15",
+			"sunset": "17:14",
+			"illum_pct": 92,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-16",
+			"month": 1,
+			"day": 16,
+			"sunrise": "07:13",
+			"sunset": "17:16",
+			"illum_pct": 86,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-17",
+			"month": 1,
+			"day": 17,
+			"sunrise": "07:11",
+			"sunset": "17:18",
+			"illum_pct": 78,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-18",
+			"month": 1,
+			"day": 18,
+			"sunrise": "07:09",
+			"sunset": "17:20",
+			"illum_pct": 70,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-19",
+			"month": 1,
+			"day": 19,
+			"sunrise": "07:07",
+			"sunset": "17:22",
+			"illum_pct": 61,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-20",
+			"month": 1,
+			"day": 20,
+			"sunrise": "07:05",
+			"sunset": "17:23",
+			"illum_pct": 52,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-21",
+			"month": 1,
+			"day": 21,
+			"sunrise": "07:03",
+			"sunset": "17:25",
+			"illum_pct": 42,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-22",
+			"month": 1,
+			"day": 22,
+			"sunrise": "07:01",
+			"sunset": "17:27",
+			"illum_pct": 32,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-23",
+			"month": 1,
+			"day": 23,
+			"sunrise": "06:59",
+			"sunset": "17:29",
+			"illum_pct": 23,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-24",
+			"month": 1,
+			"day": 24,
+			"sunrise": "06:57",
+			"sunset": "17:31",
+			"illum_pct": 14,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-25",
+			"month": 1,
+			"day": 25,
+			"sunrise": "06:55",
+			"sunset": "17:32",
+			"illum_pct": 8,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-26",
+			"month": 1,
+			"day": 26,
+			"sunrise": "06:53",
+			"sunset": "17:34",
+			"illum_pct": 3,
+			"waxing": false
+		},
+		{
+			"date": "1892-02-27",
+			"month": 1,
+			"day": 27,
+			"sunrise": "06:51",
+			"sunset": "17:36",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-28",
+			"month": 1,
+			"day": 28,
+			"sunrise": "06:49",
+			"sunset": "17:38",
+			"illum_pct": 1,
+			"waxing": true
+		},
+		{
+			"date": "1892-02-29",
+			"month": 1,
+			"day": 29,
+			"sunrise": "06:47",
+			"sunset": "17:39",
+			"illum_pct": 4,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-01",
+			"month": 2,
+			"day": 1,
+			"sunrise": "06:44",
+			"sunset": "17:41",
+			"illum_pct": 11,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-02",
+			"month": 2,
+			"day": 2,
+			"sunrise": "06:42",
+			"sunset": "17:43",
+			"illum_pct": 19,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-03",
+			"month": 2,
+			"day": 3,
+			"sunrise": "06:40",
+			"sunset": "17:45",
+			"illum_pct": 29,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-04",
+			"month": 2,
+			"day": 4,
+			"sunrise": "06:38",
+			"sunset": "17:47",
+			"illum_pct": 40,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-05",
+			"month": 2,
+			"day": 5,
+			"sunrise": "06:36",
+			"sunset": "17:48",
+			"illum_pct": 51,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-06",
+			"month": 2,
+			"day": 6,
+			"sunrise": "06:34",
+			"sunset": "17:50",
+			"illum_pct": 61,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-07",
+			"month": 2,
+			"day": 7,
+			"sunrise": "06:31",
+			"sunset": "17:52",
+			"illum_pct": 71,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-08",
+			"month": 2,
+			"day": 8,
+			"sunrise": "06:29",
+			"sunset": "17:53",
+			"illum_pct": 80,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-09",
+			"month": 2,
+			"day": 9,
+			"sunrise": "06:27",
+			"sunset": "17:55",
+			"illum_pct": 87,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-10",
+			"month": 2,
+			"day": 10,
+			"sunrise": "06:25",
+			"sunset": "17:57",
+			"illum_pct": 93,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-11",
+			"month": 2,
+			"day": 11,
+			"sunrise": "06:22",
+			"sunset": "17:59",
+			"illum_pct": 97,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-12",
+			"month": 2,
+			"day": 12,
+			"sunrise": "06:20",
+			"sunset": "18:00",
+			"illum_pct": 99,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-13",
+			"month": 2,
+			"day": 13,
+			"sunrise": "06:18",
+			"sunset": "18:02",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-14",
+			"month": 2,
+			"day": 14,
+			"sunrise": "06:16",
+			"sunset": "18:04",
+			"illum_pct": 98,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-15",
+			"month": 2,
+			"day": 15,
+			"sunrise": "06:13",
+			"sunset": "18:05",
+			"illum_pct": 95,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-16",
+			"month": 2,
+			"day": 16,
+			"sunrise": "06:11",
+			"sunset": "18:07",
+			"illum_pct": 91,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-17",
+			"month": 2,
+			"day": 17,
+			"sunrise": "06:09",
+			"sunset": "18:09",
+			"illum_pct": 84,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-18",
+			"month": 2,
+			"day": 18,
+			"sunrise": "06:06",
+			"sunset": "18:11",
+			"illum_pct": 77,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-19",
+			"month": 2,
+			"day": 19,
+			"sunrise": "06:04",
+			"sunset": "18:12",
+			"illum_pct": 68,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-20",
+			"month": 2,
+			"day": 20,
+			"sunrise": "06:02",
+			"sunset": "18:14",
+			"illum_pct": 59,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-21",
+			"month": 2,
+			"day": 21,
+			"sunrise": "06:00",
+			"sunset": "18:16",
+			"illum_pct": 49,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-22",
+			"month": 2,
+			"day": 22,
+			"sunrise": "05:57",
+			"sunset": "18:17",
+			"illum_pct": 39,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-23",
+			"month": 2,
+			"day": 23,
+			"sunrise": "05:55",
+			"sunset": "18:19",
+			"illum_pct": 28,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-24",
+			"month": 2,
+			"day": 24,
+			"sunrise": "05:53",
+			"sunset": "18:21",
+			"illum_pct": 19,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-25",
+			"month": 2,
+			"day": 25,
+			"sunrise": "05:50",
+			"sunset": "18:22",
+			"illum_pct": 11,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-26",
+			"month": 2,
+			"day": 26,
+			"sunrise": "05:48",
+			"sunset": "18:24",
+			"illum_pct": 5,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-27",
+			"month": 2,
+			"day": 27,
+			"sunrise": "05:46",
+			"sunset": "18:26",
+			"illum_pct": 1,
+			"waxing": false
+		},
+		{
+			"date": "1892-03-28",
+			"month": 2,
+			"day": 28,
+			"sunrise": "05:44",
+			"sunset": "18:27",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-29",
+			"month": 2,
+			"day": 29,
+			"sunrise": "05:41",
+			"sunset": "18:29",
+			"illum_pct": 3,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-30",
+			"month": 2,
+			"day": 30,
+			"sunrise": "05:39",
+			"sunset": "18:31",
+			"illum_pct": 8,
+			"waxing": true
+		},
+		{
+			"date": "1892-03-31",
+			"month": 2,
+			"day": 31,
+			"sunrise": "05:37",
+			"sunset": "18:32",
+			"illum_pct": 16,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-01",
+			"month": 3,
+			"day": 1,
+			"sunrise": "05:35",
+			"sunset": "18:34",
+			"illum_pct": 25,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-02",
+			"month": 3,
+			"day": 2,
+			"sunrise": "05:32",
+			"sunset": "18:36",
+			"illum_pct": 35,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-03",
+			"month": 3,
+			"day": 3,
+			"sunrise": "05:30",
+			"sunset": "18:37",
+			"illum_pct": 46,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-04",
+			"month": 3,
+			"day": 4,
+			"sunrise": "05:28",
+			"sunset": "18:39",
+			"illum_pct": 56,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-05",
+			"month": 3,
+			"day": 5,
+			"sunrise": "05:26",
+			"sunset": "18:41",
+			"illum_pct": 66,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-06",
+			"month": 3,
+			"day": 6,
+			"sunrise": "05:23",
+			"sunset": "18:42",
+			"illum_pct": 75,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-07",
+			"month": 3,
+			"day": 7,
+			"sunrise": "05:21",
+			"sunset": "18:44",
+			"illum_pct": 83,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-08",
+			"month": 3,
+			"day": 8,
+			"sunrise": "05:19",
+			"sunset": "18:46",
+			"illum_pct": 90,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-09",
+			"month": 3,
+			"day": 9,
+			"sunrise": "05:17",
+			"sunset": "18:47",
+			"illum_pct": 95,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-10",
+			"month": 3,
+			"day": 10,
+			"sunrise": "05:14",
+			"sunset": "18:49",
+			"illum_pct": 98,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-11",
+			"month": 3,
+			"day": 11,
+			"sunrise": "05:12",
+			"sunset": "18:51",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-12",
+			"month": 3,
+			"day": 12,
+			"sunrise": "05:10",
+			"sunset": "18:52",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-13",
+			"month": 3,
+			"day": 13,
+			"sunrise": "05:08",
+			"sunset": "18:54",
+			"illum_pct": 98,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-14",
+			"month": 3,
+			"day": 14,
+			"sunrise": "05:06",
+			"sunset": "18:56",
+			"illum_pct": 94,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-15",
+			"month": 3,
+			"day": 15,
+			"sunrise": "05:04",
+			"sunset": "18:57",
+			"illum_pct": 89,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-16",
+			"month": 3,
+			"day": 16,
+			"sunrise": "05:01",
+			"sunset": "18:59",
+			"illum_pct": 82,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-17",
+			"month": 3,
+			"day": 17,
+			"sunrise": "04:59",
+			"sunset": "19:01",
+			"illum_pct": 74,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-18",
+			"month": 3,
+			"day": 18,
+			"sunrise": "04:57",
+			"sunset": "19:02",
+			"illum_pct": 65,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-19",
+			"month": 3,
+			"day": 19,
+			"sunrise": "04:55",
+			"sunset": "19:04",
+			"illum_pct": 55,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-20",
+			"month": 3,
+			"day": 20,
+			"sunrise": "04:53",
+			"sunset": "19:06",
+			"illum_pct": 44,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-21",
+			"month": 3,
+			"day": 21,
+			"sunrise": "04:51",
+			"sunset": "19:07",
+			"illum_pct": 33,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-22",
+			"month": 3,
+			"day": 22,
+			"sunrise": "04:49",
+			"sunset": "19:09",
+			"illum_pct": 23,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-23",
+			"month": 3,
+			"day": 23,
+			"sunrise": "04:47",
+			"sunset": "19:11",
+			"illum_pct": 14,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-24",
+			"month": 3,
+			"day": 24,
+			"sunrise": "04:45",
+			"sunset": "19:12",
+			"illum_pct": 6,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-25",
+			"month": 3,
+			"day": 25,
+			"sunrise": "04:43",
+			"sunset": "19:14",
+			"illum_pct": 2,
+			"waxing": false
+		},
+		{
+			"date": "1892-04-26",
+			"month": 3,
+			"day": 26,
+			"sunrise": "04:41",
+			"sunset": "19:16",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-27",
+			"month": 3,
+			"day": 27,
+			"sunrise": "04:39",
+			"sunset": "19:17",
+			"illum_pct": 1,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-28",
+			"month": 3,
+			"day": 28,
+			"sunrise": "04:37",
+			"sunset": "19:19",
+			"illum_pct": 6,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-29",
+			"month": 3,
+			"day": 29,
+			"sunrise": "04:35",
+			"sunset": "19:21",
+			"illum_pct": 12,
+			"waxing": true
+		},
+		{
+			"date": "1892-04-30",
+			"month": 3,
+			"day": 30,
+			"sunrise": "04:33",
+			"sunset": "19:22",
+			"illum_pct": 21,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-01",
+			"month": 4,
+			"day": 1,
+			"sunrise": "04:31",
+			"sunset": "19:24",
+			"illum_pct": 30,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-02",
+			"month": 4,
+			"day": 2,
+			"sunrise": "04:29",
+			"sunset": "19:26",
+			"illum_pct": 41,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-03",
+			"month": 4,
+			"day": 3,
+			"sunrise": "04:27",
+			"sunset": "19:27",
+			"illum_pct": 51,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-04",
+			"month": 4,
+			"day": 4,
+			"sunrise": "04:26",
+			"sunset": "19:29",
+			"illum_pct": 61,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-05",
+			"month": 4,
+			"day": 5,
+			"sunrise": "04:24",
+			"sunset": "19:30",
+			"illum_pct": 70,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-06",
+			"month": 4,
+			"day": 6,
+			"sunrise": "04:22",
+			"sunset": "19:32",
+			"illum_pct": 78,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-07",
+			"month": 4,
+			"day": 7,
+			"sunrise": "04:20",
+			"sunset": "19:34",
+			"illum_pct": 86,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-08",
+			"month": 4,
+			"day": 8,
+			"sunrise": "04:19",
+			"sunset": "19:35",
+			"illum_pct": 92,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-09",
+			"month": 4,
+			"day": 9,
+			"sunrise": "04:17",
+			"sunset": "19:37",
+			"illum_pct": 96,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-10",
+			"month": 4,
+			"day": 10,
+			"sunrise": "04:15",
+			"sunset": "19:38",
+			"illum_pct": 99,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-11",
+			"month": 4,
+			"day": 11,
+			"sunrise": "04:14",
+			"sunset": "19:40",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-12",
+			"month": 4,
+			"day": 12,
+			"sunrise": "04:12",
+			"sunset": "19:41",
+			"illum_pct": 99,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-13",
+			"month": 4,
+			"day": 13,
+			"sunrise": "04:10",
+			"sunset": "19:43",
+			"illum_pct": 97,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-14",
+			"month": 4,
+			"day": 14,
+			"sunrise": "04:09",
+			"sunset": "19:44",
+			"illum_pct": 92,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-15",
+			"month": 4,
+			"day": 15,
+			"sunrise": "04:07",
+			"sunset": "19:46",
+			"illum_pct": 86,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-16",
+			"month": 4,
+			"day": 16,
+			"sunrise": "04:06",
+			"sunset": "19:47",
+			"illum_pct": 78,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-17",
+			"month": 4,
+			"day": 17,
+			"sunrise": "04:05",
+			"sunset": "19:49",
+			"illum_pct": 69,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-18",
+			"month": 4,
+			"day": 18,
+			"sunrise": "04:03",
+			"sunset": "19:50",
+			"illum_pct": 59,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-19",
+			"month": 4,
+			"day": 19,
+			"sunrise": "04:02",
+			"sunset": "19:52",
+			"illum_pct": 48,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-20",
+			"month": 4,
+			"day": 20,
+			"sunrise": "04:01",
+			"sunset": "19:53",
+			"illum_pct": 36,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-21",
+			"month": 4,
+			"day": 21,
+			"sunrise": "03:59",
+			"sunset": "19:54",
+			"illum_pct": 26,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-22",
+			"month": 4,
+			"day": 22,
+			"sunrise": "03:58",
+			"sunset": "19:56",
+			"illum_pct": 16,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-23",
+			"month": 4,
+			"day": 23,
+			"sunrise": "03:57",
+			"sunset": "19:57",
+			"illum_pct": 8,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-24",
+			"month": 4,
+			"day": 24,
+			"sunrise": "03:56",
+			"sunset": "19:59",
+			"illum_pct": 3,
+			"waxing": false
+		},
+		{
+			"date": "1892-05-25",
+			"month": 4,
+			"day": 25,
+			"sunrise": "03:55",
+			"sunset": "20:00",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-26",
+			"month": 4,
+			"day": 26,
+			"sunrise": "03:53",
+			"sunset": "20:01",
+			"illum_pct": 1,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-27",
+			"month": 4,
+			"day": 27,
+			"sunrise": "03:52",
+			"sunset": "20:02",
+			"illum_pct": 4,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-28",
+			"month": 4,
+			"day": 28,
+			"sunrise": "03:51",
+			"sunset": "20:04",
+			"illum_pct": 9,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-29",
+			"month": 4,
+			"day": 29,
+			"sunrise": "03:51",
+			"sunset": "20:05",
+			"illum_pct": 17,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-30",
+			"month": 4,
+			"day": 30,
+			"sunrise": "03:50",
+			"sunset": "20:06",
+			"illum_pct": 26,
+			"waxing": true
+		},
+		{
+			"date": "1892-05-31",
+			"month": 4,
+			"day": 31,
+			"sunrise": "03:49",
+			"sunset": "20:07",
+			"illum_pct": 35,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-01",
+			"month": 5,
+			"day": 1,
+			"sunrise": "03:48",
+			"sunset": "20:08",
+			"illum_pct": 45,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-02",
+			"month": 5,
+			"day": 2,
+			"sunrise": "03:47",
+			"sunset": "20:09",
+			"illum_pct": 55,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-03",
+			"month": 5,
+			"day": 3,
+			"sunrise": "03:47",
+			"sunset": "20:10",
+			"illum_pct": 64,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-04",
+			"month": 5,
+			"day": 4,
+			"sunrise": "03:46",
+			"sunset": "20:11",
+			"illum_pct": 73,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-05",
+			"month": 5,
+			"day": 5,
+			"sunrise": "03:45",
+			"sunset": "20:12",
+			"illum_pct": 81,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-06",
+			"month": 5,
+			"day": 6,
+			"sunrise": "03:45",
+			"sunset": "20:13",
+			"illum_pct": 88,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-07",
+			"month": 5,
+			"day": 7,
+			"sunrise": "03:44",
+			"sunset": "20:14",
+			"illum_pct": 93,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-08",
+			"month": 5,
+			"day": 8,
+			"sunrise": "03:44",
+			"sunset": "20:15",
+			"illum_pct": 97,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-09",
+			"month": 5,
+			"day": 9,
+			"sunrise": "03:43",
+			"sunset": "20:15",
+			"illum_pct": 100,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-10",
+			"month": 5,
+			"day": 10,
+			"sunrise": "03:43",
+			"sunset": "20:16",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-11",
+			"month": 5,
+			"day": 11,
+			"sunrise": "03:43",
+			"sunset": "20:17",
+			"illum_pct": 98,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-12",
+			"month": 5,
+			"day": 12,
+			"sunrise": "03:42",
+			"sunset": "20:17",
+			"illum_pct": 94,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-13",
+			"month": 5,
+			"day": 13,
+			"sunrise": "03:42",
+			"sunset": "20:18",
+			"illum_pct": 89,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-14",
+			"month": 5,
+			"day": 14,
+			"sunrise": "03:42",
+			"sunset": "20:18",
+			"illum_pct": 81,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-15",
+			"month": 5,
+			"day": 15,
+			"sunrise": "03:42",
+			"sunset": "20:19",
+			"illum_pct": 72,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-16",
+			"month": 5,
+			"day": 16,
+			"sunrise": "03:42",
+			"sunset": "20:19",
+			"illum_pct": 62,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-17",
+			"month": 5,
+			"day": 17,
+			"sunrise": "03:42",
+			"sunset": "20:20",
+			"illum_pct": 51,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-18",
+			"month": 5,
+			"day": 18,
+			"sunrise": "03:42",
+			"sunset": "20:20",
+			"illum_pct": 39,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-19",
+			"month": 5,
+			"day": 19,
+			"sunrise": "03:42",
+			"sunset": "20:20",
+			"illum_pct": 28,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-20",
+			"month": 5,
+			"day": 20,
+			"sunrise": "03:42",
+			"sunset": "20:21",
+			"illum_pct": 18,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-21",
+			"month": 5,
+			"day": 21,
+			"sunrise": "03:42",
+			"sunset": "20:21",
+			"illum_pct": 10,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-22",
+			"month": 5,
+			"day": 22,
+			"sunrise": "03:43",
+			"sunset": "20:21",
+			"illum_pct": 4,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-23",
+			"month": 5,
+			"day": 23,
+			"sunrise": "03:43",
+			"sunset": "20:21",
+			"illum_pct": 1,
+			"waxing": false
+		},
+		{
+			"date": "1892-06-24",
+			"month": 5,
+			"day": 24,
+			"sunrise": "03:43",
+			"sunset": "20:21",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-25",
+			"month": 5,
+			"day": 25,
+			"sunrise": "03:44",
+			"sunset": "20:21",
+			"illum_pct": 2,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-26",
+			"month": 5,
+			"day": 26,
+			"sunrise": "03:44",
+			"sunset": "20:21",
+			"illum_pct": 7,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-27",
+			"month": 5,
+			"day": 27,
+			"sunrise": "03:45",
+			"sunset": "20:21",
+			"illum_pct": 13,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-28",
+			"month": 5,
+			"day": 28,
+			"sunrise": "03:45",
+			"sunset": "20:21",
+			"illum_pct": 21,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-29",
+			"month": 5,
+			"day": 29,
+			"sunrise": "03:46",
+			"sunset": "20:21",
+			"illum_pct": 29,
+			"waxing": true
+		},
+		{
+			"date": "1892-06-30",
+			"month": 5,
+			"day": 30,
+			"sunrise": "03:46",
+			"sunset": "20:20",
+			"illum_pct": 39,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-01",
+			"month": 6,
+			"day": 1,
+			"sunrise": "03:47",
+			"sunset": "20:20",
+			"illum_pct": 48,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-02",
+			"month": 6,
+			"day": 2,
+			"sunrise": "03:48",
+			"sunset": "20:20",
+			"illum_pct": 57,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-03",
+			"month": 6,
+			"day": 3,
+			"sunrise": "03:48",
+			"sunset": "20:19",
+			"illum_pct": 67,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-04",
+			"month": 6,
+			"day": 4,
+			"sunrise": "03:49",
+			"sunset": "20:19",
+			"illum_pct": 75,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-05",
+			"month": 6,
+			"day": 5,
+			"sunrise": "03:50",
+			"sunset": "20:18",
+			"illum_pct": 83,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-06",
+			"month": 6,
+			"day": 6,
+			"sunrise": "03:51",
+			"sunset": "20:18",
+			"illum_pct": 90,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-07",
+			"month": 6,
+			"day": 7,
+			"sunrise": "03:52",
+			"sunset": "20:17",
+			"illum_pct": 95,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-08",
+			"month": 6,
+			"day": 8,
+			"sunrise": "03:53",
+			"sunset": "20:16",
+			"illum_pct": 98,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-09",
+			"month": 6,
+			"day": 9,
+			"sunrise": "03:54",
+			"sunset": "20:16",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-10",
+			"month": 6,
+			"day": 10,
+			"sunrise": "03:55",
+			"sunset": "20:15",
+			"illum_pct": 99,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-11",
+			"month": 6,
+			"day": 11,
+			"sunrise": "03:56",
+			"sunset": "20:14",
+			"illum_pct": 96,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-12",
+			"month": 6,
+			"day": 12,
+			"sunrise": "03:57",
+			"sunset": "20:13",
+			"illum_pct": 91,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-13",
+			"month": 6,
+			"day": 13,
+			"sunrise": "03:58",
+			"sunset": "20:12",
+			"illum_pct": 84,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-14",
+			"month": 6,
+			"day": 14,
+			"sunrise": "03:59",
+			"sunset": "20:11",
+			"illum_pct": 75,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-15",
+			"month": 6,
+			"day": 15,
+			"sunrise": "04:00",
+			"sunset": "20:10",
+			"illum_pct": 64,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-16",
+			"month": 6,
+			"day": 16,
+			"sunrise": "04:02",
+			"sunset": "20:09",
+			"illum_pct": 53,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-17",
+			"month": 6,
+			"day": 17,
+			"sunrise": "04:03",
+			"sunset": "20:08",
+			"illum_pct": 41,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-18",
+			"month": 6,
+			"day": 18,
+			"sunrise": "04:04",
+			"sunset": "20:07",
+			"illum_pct": 30,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-19",
+			"month": 6,
+			"day": 19,
+			"sunrise": "04:05",
+			"sunset": "20:06",
+			"illum_pct": 20,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-20",
+			"month": 6,
+			"day": 20,
+			"sunrise": "04:07",
+			"sunset": "20:05",
+			"illum_pct": 12,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-21",
+			"month": 6,
+			"day": 21,
+			"sunrise": "04:08",
+			"sunset": "20:03",
+			"illum_pct": 6,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-22",
+			"month": 6,
+			"day": 22,
+			"sunrise": "04:09",
+			"sunset": "20:02",
+			"illum_pct": 2,
+			"waxing": false
+		},
+		{
+			"date": "1892-07-23",
+			"month": 6,
+			"day": 23,
+			"sunrise": "04:11",
+			"sunset": "20:01",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-24",
+			"month": 6,
+			"day": 24,
+			"sunrise": "04:12",
+			"sunset": "19:59",
+			"illum_pct": 1,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-25",
+			"month": 6,
+			"day": 25,
+			"sunrise": "04:14",
+			"sunset": "19:58",
+			"illum_pct": 4,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-26",
+			"month": 6,
+			"day": 26,
+			"sunrise": "04:15",
+			"sunset": "19:57",
+			"illum_pct": 9,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-27",
+			"month": 6,
+			"day": 27,
+			"sunrise": "04:16",
+			"sunset": "19:55",
+			"illum_pct": 16,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-28",
+			"month": 6,
+			"day": 28,
+			"sunrise": "04:18",
+			"sunset": "19:54",
+			"illum_pct": 23,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-29",
+			"month": 6,
+			"day": 29,
+			"sunrise": "04:19",
+			"sunset": "19:52",
+			"illum_pct": 32,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-30",
+			"month": 6,
+			"day": 30,
+			"sunrise": "04:21",
+			"sunset": "19:50",
+			"illum_pct": 41,
+			"waxing": true
+		},
+		{
+			"date": "1892-07-31",
+			"month": 6,
+			"day": 31,
+			"sunrise": "04:22",
+			"sunset": "19:49",
+			"illum_pct": 50,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-01",
+			"month": 7,
+			"day": 1,
+			"sunrise": "04:24",
+			"sunset": "19:47",
+			"illum_pct": 60,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-02",
+			"month": 7,
+			"day": 2,
+			"sunrise": "04:25",
+			"sunset": "19:46",
+			"illum_pct": 69,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-03",
+			"month": 7,
+			"day": 3,
+			"sunrise": "04:27",
+			"sunset": "19:44",
+			"illum_pct": 78,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-04",
+			"month": 7,
+			"day": 4,
+			"sunrise": "04:28",
+			"sunset": "19:42",
+			"illum_pct": 85,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-05",
+			"month": 7,
+			"day": 5,
+			"sunrise": "04:30",
+			"sunset": "19:40",
+			"illum_pct": 92,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-06",
+			"month": 7,
+			"day": 6,
+			"sunrise": "04:32",
+			"sunset": "19:39",
+			"illum_pct": 97,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-07",
+			"month": 7,
+			"day": 7,
+			"sunrise": "04:33",
+			"sunset": "19:37",
+			"illum_pct": 99,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-08",
+			"month": 7,
+			"day": 8,
+			"sunrise": "04:35",
+			"sunset": "19:35",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-09",
+			"month": 7,
+			"day": 9,
+			"sunrise": "04:36",
+			"sunset": "19:33",
+			"illum_pct": 98,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-10",
+			"month": 7,
+			"day": 10,
+			"sunrise": "04:38",
+			"sunset": "19:31",
+			"illum_pct": 93,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-11",
+			"month": 7,
+			"day": 11,
+			"sunrise": "04:39",
+			"sunset": "19:29",
+			"illum_pct": 86,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-12",
+			"month": 7,
+			"day": 12,
+			"sunrise": "04:41",
+			"sunset": "19:27",
+			"illum_pct": 77,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-13",
+			"month": 7,
+			"day": 13,
+			"sunrise": "04:43",
+			"sunset": "19:26",
+			"illum_pct": 66,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-14",
+			"month": 7,
+			"day": 14,
+			"sunrise": "04:44",
+			"sunset": "19:24",
+			"illum_pct": 55,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-15",
+			"month": 7,
+			"day": 15,
+			"sunrise": "04:46",
+			"sunset": "19:22",
+			"illum_pct": 44,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-16",
+			"month": 7,
+			"day": 16,
+			"sunrise": "04:47",
+			"sunset": "19:20",
+			"illum_pct": 33,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-17",
+			"month": 7,
+			"day": 17,
+			"sunrise": "04:49",
+			"sunset": "19:18",
+			"illum_pct": 23,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-18",
+			"month": 7,
+			"day": 18,
+			"sunrise": "04:51",
+			"sunset": "19:15",
+			"illum_pct": 14,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-19",
+			"month": 7,
+			"day": 19,
+			"sunrise": "04:52",
+			"sunset": "19:13",
+			"illum_pct": 8,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-20",
+			"month": 7,
+			"day": 20,
+			"sunrise": "04:54",
+			"sunset": "19:11",
+			"illum_pct": 3,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-21",
+			"month": 7,
+			"day": 21,
+			"sunrise": "04:55",
+			"sunset": "19:09",
+			"illum_pct": 1,
+			"waxing": false
+		},
+		{
+			"date": "1892-08-22",
+			"month": 7,
+			"day": 22,
+			"sunrise": "04:57",
+			"sunset": "19:07",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-23",
+			"month": 7,
+			"day": 23,
+			"sunrise": "04:59",
+			"sunset": "19:05",
+			"illum_pct": 2,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-24",
+			"month": 7,
+			"day": 24,
+			"sunrise": "05:00",
+			"sunset": "19:03",
+			"illum_pct": 6,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-25",
+			"month": 7,
+			"day": 25,
+			"sunrise": "05:02",
+			"sunset": "19:01",
+			"illum_pct": 11,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-26",
+			"month": 7,
+			"day": 26,
+			"sunrise": "05:03",
+			"sunset": "18:59",
+			"illum_pct": 18,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-27",
+			"month": 7,
+			"day": 27,
+			"sunrise": "05:05",
+			"sunset": "18:56",
+			"illum_pct": 26,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-28",
+			"month": 7,
+			"day": 28,
+			"sunrise": "05:07",
+			"sunset": "18:54",
+			"illum_pct": 34,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-29",
+			"month": 7,
+			"day": 29,
+			"sunrise": "05:08",
+			"sunset": "18:52",
+			"illum_pct": 43,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-30",
+			"month": 7,
+			"day": 30,
+			"sunrise": "05:10",
+			"sunset": "18:50",
+			"illum_pct": 53,
+			"waxing": true
+		},
+		{
+			"date": "1892-08-31",
+			"month": 7,
+			"day": 31,
+			"sunrise": "05:11",
+			"sunset": "18:48",
+			"illum_pct": 63,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-01",
+			"month": 8,
+			"day": 1,
+			"sunrise": "05:13",
+			"sunset": "18:45",
+			"illum_pct": 72,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-02",
+			"month": 8,
+			"day": 2,
+			"sunrise": "05:15",
+			"sunset": "18:43",
+			"illum_pct": 81,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-03",
+			"month": 8,
+			"day": 3,
+			"sunrise": "05:16",
+			"sunset": "18:41",
+			"illum_pct": 88,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-04",
+			"month": 8,
+			"day": 4,
+			"sunrise": "05:18",
+			"sunset": "18:39",
+			"illum_pct": 94,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-05",
+			"month": 8,
+			"day": 5,
+			"sunrise": "05:19",
+			"sunset": "18:36",
+			"illum_pct": 98,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-06",
+			"month": 8,
+			"day": 6,
+			"sunrise": "05:21",
+			"sunset": "18:34",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-07",
+			"month": 8,
+			"day": 7,
+			"sunrise": "05:23",
+			"sunset": "18:32",
+			"illum_pct": 99,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-08",
+			"month": 8,
+			"day": 8,
+			"sunrise": "05:24",
+			"sunset": "18:30",
+			"illum_pct": 95,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-09",
+			"month": 8,
+			"day": 9,
+			"sunrise": "05:26",
+			"sunset": "18:27",
+			"illum_pct": 88,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-10",
+			"month": 8,
+			"day": 10,
+			"sunrise": "05:27",
+			"sunset": "18:25",
+			"illum_pct": 79,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-11",
+			"month": 8,
+			"day": 11,
+			"sunrise": "05:29",
+			"sunset": "18:23",
+			"illum_pct": 69,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-12",
+			"month": 8,
+			"day": 12,
+			"sunrise": "05:30",
+			"sunset": "18:20",
+			"illum_pct": 58,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-13",
+			"month": 8,
+			"day": 13,
+			"sunrise": "05:32",
+			"sunset": "18:18",
+			"illum_pct": 47,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-14",
+			"month": 8,
+			"day": 14,
+			"sunrise": "05:34",
+			"sunset": "18:16",
+			"illum_pct": 36,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-15",
+			"month": 8,
+			"day": 15,
+			"sunrise": "05:35",
+			"sunset": "18:14",
+			"illum_pct": 26,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-16",
+			"month": 8,
+			"day": 16,
+			"sunrise": "05:37",
+			"sunset": "18:11",
+			"illum_pct": 17,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-17",
+			"month": 8,
+			"day": 17,
+			"sunrise": "05:39",
+			"sunset": "18:09",
+			"illum_pct": 10,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-18",
+			"month": 8,
+			"day": 18,
+			"sunrise": "05:40",
+			"sunset": "18:07",
+			"illum_pct": 5,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-19",
+			"month": 8,
+			"day": 19,
+			"sunrise": "05:42",
+			"sunset": "18:04",
+			"illum_pct": 2,
+			"waxing": false
+		},
+		{
+			"date": "1892-09-20",
+			"month": 8,
+			"day": 20,
+			"sunrise": "05:43",
+			"sunset": "18:02",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-21",
+			"month": 8,
+			"day": 21,
+			"sunrise": "05:45",
+			"sunset": "18:00",
+			"illum_pct": 1,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-22",
+			"month": 8,
+			"day": 22,
+			"sunrise": "05:47",
+			"sunset": "17:57",
+			"illum_pct": 3,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-23",
+			"month": 8,
+			"day": 23,
+			"sunrise": "05:48",
+			"sunset": "17:55",
+			"illum_pct": 7,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-24",
+			"month": 8,
+			"day": 24,
+			"sunrise": "05:50",
+			"sunset": "17:53",
+			"illum_pct": 13,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-25",
+			"month": 8,
+			"day": 25,
+			"sunrise": "05:51",
+			"sunset": "17:50",
+			"illum_pct": 20,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-26",
+			"month": 8,
+			"day": 26,
+			"sunrise": "05:53",
+			"sunset": "17:48",
+			"illum_pct": 28,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-27",
+			"month": 8,
+			"day": 27,
+			"sunrise": "05:55",
+			"sunset": "17:46",
+			"illum_pct": 37,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-28",
+			"month": 8,
+			"day": 28,
+			"sunrise": "05:56",
+			"sunset": "17:44",
+			"illum_pct": 46,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-29",
+			"month": 8,
+			"day": 29,
+			"sunrise": "05:58",
+			"sunset": "17:41",
+			"illum_pct": 56,
+			"waxing": true
+		},
+		{
+			"date": "1892-09-30",
+			"month": 8,
+			"day": 30,
+			"sunrise": "06:00",
+			"sunset": "17:39",
+			"illum_pct": 66,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-01",
+			"month": 9,
+			"day": 1,
+			"sunrise": "06:01",
+			"sunset": "17:37",
+			"illum_pct": 76,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-02",
+			"month": 9,
+			"day": 2,
+			"sunrise": "06:03",
+			"sunset": "17:35",
+			"illum_pct": 84,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-03",
+			"month": 9,
+			"day": 3,
+			"sunrise": "06:05",
+			"sunset": "17:32",
+			"illum_pct": 92,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-04",
+			"month": 9,
+			"day": 4,
+			"sunrise": "06:06",
+			"sunset": "17:30",
+			"illum_pct": 97,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-05",
+			"month": 9,
+			"day": 5,
+			"sunrise": "06:08",
+			"sunset": "17:28",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-06",
+			"month": 9,
+			"day": 6,
+			"sunrise": "06:09",
+			"sunset": "17:26",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-07",
+			"month": 9,
+			"day": 7,
+			"sunrise": "06:11",
+			"sunset": "17:23",
+			"illum_pct": 96,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-08",
+			"month": 9,
+			"day": 8,
+			"sunrise": "06:13",
+			"sunset": "17:21",
+			"illum_pct": 90,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-09",
+			"month": 9,
+			"day": 9,
+			"sunrise": "06:15",
+			"sunset": "17:19",
+			"illum_pct": 82,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-10",
+			"month": 9,
+			"day": 10,
+			"sunrise": "06:16",
+			"sunset": "17:17",
+			"illum_pct": 72,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-11",
+			"month": 9,
+			"day": 11,
+			"sunrise": "06:18",
+			"sunset": "17:14",
+			"illum_pct": 62,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-12",
+			"month": 9,
+			"day": 12,
+			"sunrise": "06:20",
+			"sunset": "17:12",
+			"illum_pct": 51,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-13",
+			"month": 9,
+			"day": 13,
+			"sunrise": "06:21",
+			"sunset": "17:10",
+			"illum_pct": 40,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-14",
+			"month": 9,
+			"day": 14,
+			"sunrise": "06:23",
+			"sunset": "17:08",
+			"illum_pct": 30,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-15",
+			"month": 9,
+			"day": 15,
+			"sunrise": "06:25",
+			"sunset": "17:06",
+			"illum_pct": 21,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-16",
+			"month": 9,
+			"day": 16,
+			"sunrise": "06:26",
+			"sunset": "17:04",
+			"illum_pct": 14,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-17",
+			"month": 9,
+			"day": 17,
+			"sunrise": "06:28",
+			"sunset": "17:02",
+			"illum_pct": 8,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-18",
+			"month": 9,
+			"day": 18,
+			"sunrise": "06:30",
+			"sunset": "17:00",
+			"illum_pct": 3,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-19",
+			"month": 9,
+			"day": 19,
+			"sunrise": "06:32",
+			"sunset": "16:57",
+			"illum_pct": 1,
+			"waxing": false
+		},
+		{
+			"date": "1892-10-20",
+			"month": 9,
+			"day": 20,
+			"sunrise": "06:33",
+			"sunset": "16:55",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-21",
+			"month": 9,
+			"day": 21,
+			"sunrise": "06:35",
+			"sunset": "16:53",
+			"illum_pct": 1,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-22",
+			"month": 9,
+			"day": 22,
+			"sunrise": "06:37",
+			"sunset": "16:51",
+			"illum_pct": 4,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-23",
+			"month": 9,
+			"day": 23,
+			"sunrise": "06:39",
+			"sunset": "16:49",
+			"illum_pct": 8,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-24",
+			"month": 9,
+			"day": 24,
+			"sunrise": "06:40",
+			"sunset": "16:47",
+			"illum_pct": 14,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-25",
+			"month": 9,
+			"day": 25,
+			"sunrise": "06:42",
+			"sunset": "16:45",
+			"illum_pct": 22,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-26",
+			"month": 9,
+			"day": 26,
+			"sunrise": "06:44",
+			"sunset": "16:43",
+			"illum_pct": 30,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-27",
+			"month": 9,
+			"day": 27,
+			"sunrise": "06:46",
+			"sunset": "16:41",
+			"illum_pct": 40,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-28",
+			"month": 9,
+			"day": 28,
+			"sunrise": "06:47",
+			"sunset": "16:40",
+			"illum_pct": 50,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-29",
+			"month": 9,
+			"day": 29,
+			"sunrise": "06:49",
+			"sunset": "16:38",
+			"illum_pct": 60,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-30",
+			"month": 9,
+			"day": 30,
+			"sunrise": "06:51",
+			"sunset": "16:36",
+			"illum_pct": 71,
+			"waxing": true
+		},
+		{
+			"date": "1892-10-31",
+			"month": 9,
+			"day": 31,
+			"sunrise": "06:53",
+			"sunset": "16:34",
+			"illum_pct": 80,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-01",
+			"month": 10,
+			"day": 1,
+			"sunrise": "06:54",
+			"sunset": "16:32",
+			"illum_pct": 89,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-02",
+			"month": 10,
+			"day": 2,
+			"sunrise": "06:56",
+			"sunset": "16:30",
+			"illum_pct": 95,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-03",
+			"month": 10,
+			"day": 3,
+			"sunrise": "06:58",
+			"sunset": "16:29",
+			"illum_pct": 99,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-04",
+			"month": 10,
+			"day": 4,
+			"sunrise": "07:00",
+			"sunset": "16:27",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-05",
+			"month": 10,
+			"day": 5,
+			"sunrise": "07:02",
+			"sunset": "16:25",
+			"illum_pct": 98,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-06",
+			"month": 10,
+			"day": 6,
+			"sunrise": "07:03",
+			"sunset": "16:24",
+			"illum_pct": 93,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-07",
+			"month": 10,
+			"day": 7,
+			"sunrise": "07:05",
+			"sunset": "16:22",
+			"illum_pct": 86,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-08",
+			"month": 10,
+			"day": 8,
+			"sunrise": "07:07",
+			"sunset": "16:20",
+			"illum_pct": 77,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-09",
+			"month": 10,
+			"day": 9,
+			"sunrise": "07:09",
+			"sunset": "16:19",
+			"illum_pct": 67,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-10",
+			"month": 10,
+			"day": 10,
+			"sunrise": "07:10",
+			"sunset": "16:17",
+			"illum_pct": 56,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-11",
+			"month": 10,
+			"day": 11,
+			"sunrise": "07:12",
+			"sunset": "16:16",
+			"illum_pct": 46,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-12",
+			"month": 10,
+			"day": 12,
+			"sunrise": "07:14",
+			"sunset": "16:14",
+			"illum_pct": 36,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-13",
+			"month": 10,
+			"day": 13,
+			"sunrise": "07:16",
+			"sunset": "16:13",
+			"illum_pct": 27,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-14",
+			"month": 10,
+			"day": 14,
+			"sunrise": "07:17",
+			"sunset": "16:11",
+			"illum_pct": 19,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-15",
+			"month": 10,
+			"day": 15,
+			"sunrise": "07:19",
+			"sunset": "16:10",
+			"illum_pct": 12,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-16",
+			"month": 10,
+			"day": 16,
+			"sunrise": "07:21",
+			"sunset": "16:09",
+			"illum_pct": 6,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-17",
+			"month": 10,
+			"day": 17,
+			"sunrise": "07:22",
+			"sunset": "16:08",
+			"illum_pct": 3,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-18",
+			"month": 10,
+			"day": 18,
+			"sunrise": "07:24",
+			"sunset": "16:06",
+			"illum_pct": 0,
+			"waxing": false
+		},
+		{
+			"date": "1892-11-19",
+			"month": 10,
+			"day": 19,
+			"sunrise": "07:26",
+			"sunset": "16:05",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-20",
+			"month": 10,
+			"day": 20,
+			"sunrise": "07:27",
+			"sunset": "16:04",
+			"illum_pct": 2,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-21",
+			"month": 10,
+			"day": 21,
+			"sunrise": "07:29",
+			"sunset": "16:03",
+			"illum_pct": 5,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-22",
+			"month": 10,
+			"day": 22,
+			"sunrise": "07:31",
+			"sunset": "16:02",
+			"illum_pct": 10,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-23",
+			"month": 10,
+			"day": 23,
+			"sunrise": "07:32",
+			"sunset": "16:01",
+			"illum_pct": 17,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-24",
+			"month": 10,
+			"day": 24,
+			"sunrise": "07:34",
+			"sunset": "16:00",
+			"illum_pct": 25,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-25",
+			"month": 10,
+			"day": 25,
+			"sunrise": "07:35",
+			"sunset": "15:59",
+			"illum_pct": 34,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-26",
+			"month": 10,
+			"day": 26,
+			"sunrise": "07:37",
+			"sunset": "15:58",
+			"illum_pct": 44,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-27",
+			"month": 10,
+			"day": 27,
+			"sunrise": "07:38",
+			"sunset": "15:57",
+			"illum_pct": 55,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-28",
+			"month": 10,
+			"day": 28,
+			"sunrise": "07:40",
+			"sunset": "15:56",
+			"illum_pct": 66,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-29",
+			"month": 10,
+			"day": 29,
+			"sunrise": "07:41",
+			"sunset": "15:56",
+			"illum_pct": 76,
+			"waxing": true
+		},
+		{
+			"date": "1892-11-30",
+			"month": 10,
+			"day": 30,
+			"sunrise": "07:43",
+			"sunset": "15:55",
+			"illum_pct": 85,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-01",
+			"month": 11,
+			"day": 1,
+			"sunrise": "07:44",
+			"sunset": "15:54",
+			"illum_pct": 93,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-02",
+			"month": 11,
+			"day": 2,
+			"sunrise": "07:46",
+			"sunset": "15:54",
+			"illum_pct": 98,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-03",
+			"month": 11,
+			"day": 3,
+			"sunrise": "07:47",
+			"sunset": "15:53",
+			"illum_pct": 100,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-04",
+			"month": 11,
+			"day": 4,
+			"sunrise": "07:48",
+			"sunset": "15:53",
+			"illum_pct": 99,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-05",
+			"month": 11,
+			"day": 5,
+			"sunrise": "07:50",
+			"sunset": "15:52",
+			"illum_pct": 95,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-06",
+			"month": 11,
+			"day": 6,
+			"sunrise": "07:51",
+			"sunset": "15:52",
+			"illum_pct": 89,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-07",
+			"month": 11,
+			"day": 7,
+			"sunrise": "07:52",
+			"sunset": "15:52",
+			"illum_pct": 82,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-08",
+			"month": 11,
+			"day": 8,
+			"sunrise": "07:53",
+			"sunset": "15:51",
+			"illum_pct": 72,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-09",
+			"month": 11,
+			"day": 9,
+			"sunrise": "07:54",
+			"sunset": "15:51",
+			"illum_pct": 63,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-10",
+			"month": 11,
+			"day": 10,
+			"sunrise": "07:55",
+			"sunset": "15:51",
+			"illum_pct": 53,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-11",
+			"month": 11,
+			"day": 11,
+			"sunrise": "07:56",
+			"sunset": "15:51",
+			"illum_pct": 43,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-12",
+			"month": 11,
+			"day": 12,
+			"sunrise": "07:57",
+			"sunset": "15:51",
+			"illum_pct": 34,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-13",
+			"month": 11,
+			"day": 13,
+			"sunrise": "07:58",
+			"sunset": "15:51",
+			"illum_pct": 25,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-14",
+			"month": 11,
+			"day": 14,
+			"sunrise": "07:59",
+			"sunset": "15:51",
+			"illum_pct": 17,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-15",
+			"month": 11,
+			"day": 15,
+			"sunrise": "08:00",
+			"sunset": "15:51",
+			"illum_pct": 11,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-16",
+			"month": 11,
+			"day": 16,
+			"sunrise": "08:01",
+			"sunset": "15:51",
+			"illum_pct": 6,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-17",
+			"month": 11,
+			"day": 17,
+			"sunrise": "08:01",
+			"sunset": "15:52",
+			"illum_pct": 2,
+			"waxing": false
+		},
+		{
+			"date": "1892-12-18",
+			"month": 11,
+			"day": 18,
+			"sunrise": "08:02",
+			"sunset": "15:52",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-19",
+			"month": 11,
+			"day": 19,
+			"sunrise": "08:03",
+			"sunset": "15:52",
+			"illum_pct": 0,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-20",
+			"month": 11,
+			"day": 20,
+			"sunrise": "08:03",
+			"sunset": "15:53",
+			"illum_pct": 2,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-21",
+			"month": 11,
+			"day": 21,
+			"sunrise": "08:04",
+			"sunset": "15:53",
+			"illum_pct": 6,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-22",
+			"month": 11,
+			"day": 22,
+			"sunrise": "08:04",
+			"sunset": "15:54",
+			"illum_pct": 12,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-23",
+			"month": 11,
+			"day": 23,
+			"sunrise": "08:05",
+			"sunset": "15:55",
+			"illum_pct": 20,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-24",
+			"month": 11,
+			"day": 24,
+			"sunrise": "08:05",
+			"sunset": "15:55",
+			"illum_pct": 29,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-25",
+			"month": 11,
+			"day": 25,
+			"sunrise": "08:05",
+			"sunset": "15:56",
+			"illum_pct": 39,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-26",
+			"month": 11,
+			"day": 26,
+			"sunrise": "08:06",
+			"sunset": "15:57",
+			"illum_pct": 50,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-27",
+			"month": 11,
+			"day": 27,
+			"sunrise": "08:06",
+			"sunset": "15:57",
+			"illum_pct": 61,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-28",
+			"month": 11,
+			"day": 28,
+			"sunrise": "08:06",
+			"sunset": "15:58",
+			"illum_pct": 72,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-29",
+			"month": 11,
+			"day": 29,
+			"sunrise": "08:06",
+			"sunset": "15:59",
+			"illum_pct": 82,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-30",
+			"month": 11,
+			"day": 30,
+			"sunrise": "08:06",
+			"sunset": "16:00",
+			"illum_pct": 90,
+			"waxing": true
+		},
+		{
+			"date": "1892-12-31",
+			"month": 11,
+			"day": 31,
+			"sunrise": "08:06",
+			"sunset": "16:01",
+			"illum_pct": 96,
+			"waxing": true
+		}
+	]
+}

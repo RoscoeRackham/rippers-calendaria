@@ -1,0 +1,838 @@
+[
+	{
+		"name": "Ellis Island opens as a federal immigration station in New York harbour. First through: Annie Moore, seventeen, of Cork.",
+		"content": "<p>The century's other machine for sorting people. Useful if the party ever crosses.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 1
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The 1889–92 influenza pandemic's third wave runs through Britain — roughly 25,000 dead in England and Wales.",
+		"content": "<p>The January lesson, and it is at home. Hamburg is the same argument abroad in August.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 2,
+			"day": 29
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Flinders Petrie is excavating el-Amarna — his 1891–92 season, uncovering the painted palace pavement of Akhenaten.",
+		"content": "<p>Fourteen Parts. The site is not empty; there is a British dig on it right now.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 4,
+			"day": 30
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Jacques de Morgan replaces Eugène Grébaut as director of the Egyptian Antiquities Service.",
+		"content": "<p>Every permit, every partage argument, every Medjay grievance. The collection itself is at the Giza Palace, not Bulaq — it moved in 1889.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 3,
+			"day": 31
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Khedive Tewfik Pasha dies suddenly in Cairo.",
+		"content": "<p>The vacancy.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 7
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Abbas II becomes Khedive of Egypt and Sudan at seventeen — under the legal succession age, and still a student in Vienna. Cromer runs the country through British Advisers embedded in Egyptian ministries.",
+		"content": "<p>The entire Egypt cluster. Nationalist ferment is new and live, and the Khedive himself will fund it.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 8
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Prince Albert Victor, Duke of Clarence and Avondale, dies at Sandringham of pneumonia — six days after his twenty-eighth birthday, five weeks before his wedding. Second in line to the throne. The morning he dies is a full moon.",
+		"content": "<p>The year opens with the heir presumptive killed by a disease, in a campaign about things you cannot stab. NB: the Ripper-suspect rumour is a 1962 invention — in 1892 nobody has said it aloud. Treat it like The King in Yellow: not public, and that is why it is dangerous.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 14
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Cardinal Henry Edward Manning, Archbishop of Westminster, dies of bronchitis — THE SAME DAY. Over 100,000 file past his coffin; the four miles from Brompton Oratory to Kensal Green are lined with mourners, largely working men who remember he settled the 1889 Dock Strike.",
+		"content": "<p>Two deaths in one day: the Crown and the Church. The dockers turn out for the cardinal and not the prince — the class register of the whole campaign in a single afternoon.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 14
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Albert Victor's funeral at St George's Chapel, Windsor. Princess Mary of Teck lays her intended bridal wreath on the coffin. Court mourning.",
+		"content": "<p>Every social scene in London is black-edged for weeks.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 20
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "John Couch Adams dies at Cambridge — the astronomer who found Neptune with arithmetic before anyone found it with a telescope.",
+		"content": "<p>A quiet, thematically perfect death: the man who proved you can locate a thing you cannot see.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 21
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Colonel Olcott circulates his resignation as President of the Theosophical Society, citing ill health — opening a succession fight with William Q. Judge and Annie Besant that runs all year.",
+		"content": "<p>The occult establishment is leaderless in 1892. Blavatsky died last May.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 27
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Charles Haddon Spurgeon dies at Menton, aged 57. The greatest preacher in England.",
+		"content": "<p>January 1892 kills the heir, the cardinal and the preacher. If a district's Miasma is going to open the campaign, it opens here.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 1,
+			"day": 31
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Nikola Tesla lectures to the Institution of Electrical Engineers, London: “Experiments with Alternate Currents of High Potential and High Frequency.” He holds glowing vacuum tubes in his bare hands and passes discharges through his own body.",
+		"content": "<p>A man standing on a London stage full of current, lighting lamps with nothing attached to them. In 1892 this is the closest thing to public proof of an invisible medium.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 2,
+			"day": 3
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Tesla repeats the lecture at the Royal Institution by invitation. Lord Rayleigh speaks afterward; Sir William Crookes supplies the Geissler tubes. The Times gives it a full editorial column.",
+		"content": "<p>Crookes is the hinge: a Fellow of the Royal Society who investigates mediums. He is the respectable face of your premise.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 2,
+			"day": 4
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Daniel Desdunes is arrested on an interstate train — the Comité des Citoyens' first test case against Louisiana's Separate Car Act. It will be dropped on a technicality, so they will build a second.",
+		"content": "<p>New Orleans is running a deliberate, organised legal campaign this year. Rodolphe Desdunes and Louis Martinet, not just Tourgée.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 2,
+			"day": 24
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Rudolf Diesel files his patent for a rational heat engine at the Imperial Patent Office in Berlin. Also: the day Albert Victor was to have married Mary of Teck.",
+		"content": "<p>A wedding-shaped hole and a new kind of engine on the same date.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 2,
+			"day": 27
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "London County Council election. The Progressives hold control and gain eleven seats.",
+		"content": "<p>Who actually administers a district — and therefore who can be lobbied about its Prosperity.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 3,
+			"day": 5
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Thomas Moss, Calvin McDowell and Will Stewart are lynched in Memphis, dragged from jail by seventy-five masked men. Moss's last words: “Tell my people to go West, there is no justice for them here.” Ida B. Wells prints them.",
+		"content": "<p>1892 is the deadliest year for lynching in American history — 231. Wells's press will be destroyed in May and she will publish Southern Horrors in October.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 3,
+			"day": 9
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Vice-Consul Henry Gallwey extracts the Gallwey Treaty from Oba Ovonramwen at Benin City. Gallwey's own account records the Oba was reluctant. The text is about palm oil, kola, ivory and rubber — it says nothing about ending sacrifice.",
+		"content": "<p>The “City of Blood” framing is 1897 press invention, applied retroactively to justify a punitive expedition and a looting. In 1892 the crime has not happened yet.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 3,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 3,
+			"day": 31
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Amelia Edwards dies at Weston-super-Mare of influenza, leaving £2,500 to found the Edwards Chair of Egyptology at UCL. Petrie becomes its first holder this year.",
+		"content": "<p>The influenza again. And the founder of the Egypt Exploration Fund hands Petrie an institution on her way out.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 4,
+			"day": 15
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Imbaba Bridge opens across the Nile at Cairo — engineered by Gustave Eiffel. Misr Station is rebuilt the same year.",
+		"content": "<p>A precisely dated Cairo set-piece, brand new.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 5,
+			"day": 15
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Great Western Railway's Flying Dutchman makes its last broad-gauge run to Plymouth. Over the weekend of 20–21 May the entire remaining broad gauge is converted to standard in a single operation.",
+		"content": "<p>One weekend in which the West Country has no through trains. If Dartmoor needs the party stranded, this is the date.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 5,
+			"day": 19
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Samuel Liddell MacGregor Mathers and Moina Mathers leave London for Paris. The Golden Dawn's Second Order was founded five months ago; Woodman died in December.",
+		"content": "<p>The Isis-Urania temple loses its magus to the Continent. Westcott is still a serving Crown coroner.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 5,
+			"day": 21
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Templar Legacy opens. (module)",
+		"content": "<p>Fixed only by the published handouts — move them and it floats.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 5,
+			"day": 25
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Homer Plessy buys a first-class ticket from New Orleans to Covington — thirty miles, deliberately intrastate — sits in the whites-only car and is arrested by a detective hired in advance to make the record clean.",
+		"content": "<p>The mask of law. Judge Ferguson rules against him on 18 November.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 6,
+			"day": 7
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Indian Councils Act receives Royal Assent — the first step toward representative government in India, carefully avoiding the word “election.” The same day, Evelyn Baring is created Baron Cromer.",
+		"content": "<p>Two halves of the same machine on one date.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 6,
+			"day": 20
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Midsummer. Sunset 20:21; the moon is three days from new and all but dark.",
+		"content": "<p>Misguided Faith at Stonehenge — the blackest solstice sky of the decade.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 6,
+			"day": 21
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Homestead Strike. Pinkertons come up the river by barge on the night of 5 July; the battle is fought on the 6th. Alexander Berkman shoots and stabs Frick on 23 July and Frick survives.",
+		"content": "<p>The industrial thread's American front.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 6,
+			"day": 30
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 7,
+			"day": 16
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Polling in the United Kingdom general election, spread across three weeks. The Conservatives and Liberal Unionists take the most seats but lose their majority; the Irish Nationalists hold the balance.",
+		"content": "<p>The government of Britain changes during the campaign year.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 7,
+			"day": 4
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 7,
+			"day": 26
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Thomas Cook dies at Leicester. His son John Mason Cook already runs the firm — and the Nile.",
+		"content": "<p>The man who made travel a product. In Egypt he is called the second-greatest man in the country, after Cromer.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 7,
+			"day": 18
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Heliacal rising of Sirius — the ancient Egyptian new year.",
+		"content": "<p>Pyramid Plateau, “Long Dreams.”</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 7,
+			"day": 20
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Hamburg cholera epidemic. The Senate calls the deaths “gastric catarrh” for days before admitting it. Roughly 8,600 dead, near 50% case fatality. Altona next door, drawing from the same river through sand filters, is barely touched.",
+		"content": "<p>The Manifest ward, and the best Act I proof that you cannot stab an epidemic. The natural experiment is the whole argument: same river, one filter.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 31
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "The anniversary window of the 1888 Whitechapel murders.",
+		"content": "<p>Jack's Back — and the papers doing the Cabal's work for free.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 11,
+			"day": 30
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Keir Hardie takes his seat for West Ham South — the first independent labour MP. He wears a tweed suit, a red tie and a deerstalker; the hostile press reports a cloth cap and a brass band. It was one hired cornet.",
+		"content": "<p>The press inventing a working man to laugh at. Note the mechanism, not just the man.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 3
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Andrew and Abby Borden are found hacked to death in Fall River, Massachusetts.",
+		"content": "<p>The trial is June 1893, so in 1892 it is an unsolved horror with no ending yet.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 4
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The new Parliament defeats Salisbury's government on a vote of no confidence, 350 to 310, around midnight.",
+		"content": "<p>Two days later he resigns at Osborne.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 11
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Gladstone kisses hands as Prime Minister for the fourth time, aged 82 — the oldest person ever to take the office. Home Rule is the price of the Irish votes that put him there.",
+		"content": "<p>A very old man takes charge of an empire that is about to be asked what it is for.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 15
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Franco-Russian military convention is signed by the two general staffs.",
+		"content": "<p>The two-bloc Europe that runs to 1914 forms this month. Death on Dartmoor's arms race has a date.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 17
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Second International Congress of Experimental Psychology meets in London. Henry Sidgwick presides; interim results of the Society for Psychical Research's Census of Hallucinations are presented.",
+		"content": "<p>Respectable science and psychical research sharing a hall, in London, this year. Your premise's real-world venue.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 31
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Hamburg's epidemic peaks — about 16,956 cumulative cases, up to 140 deaths a day. Robert Koch, sent by Berlin rather than called by the city, walks the Gängeviertel and says: “I forget that I am in Europe.”",
+		"content": "<p>A German scientist looking at a German slum and not recognising the continent. Use the line.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 8,
+			"day": 30
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Anniversary of the Great Fire of London, 1666.",
+		"content": "<p>Home Fires Burning, in Pudding Lane. The 6th is also a full moon.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 9,
+			"day": 2
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 9,
+			"day": 6
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "The Dundee Whaling Expedition sails — Balaena, Active, Diana, Polar Star — for the Weddell Sea. Four months out; Dundee Island is named on 8 January 1893.",
+		"content": "<p>This is the only way a person gets to Antarctica in 1892. Not passage: a berth on a whaler, one way, four months.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 9,
+			"day": 6
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Sergei Witte becomes Russian Finance Minister.",
+		"content": "<p>The industrialisation of Russia begins with a personnel change.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 9,
+			"day": 15
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Sirius ceases to be a morning star.",
+		"content": "<p>Pyramid Plateau, “Divine Inspiration.”</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 9,
+			"day": 29
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Alfred, Lord Tennyson dies at Aldworth, aged 83. His coffin lies overnight in St Faith's Chapel on the 11th; the funeral is at Westminster Abbey on the 12th, and he is buried in Poets' Corner beside Browning.",
+		"content": "<p>The Laureate of the age dies in it. A national funeral the party can attend.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 6
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Max von Pettenkofer, the great champion of miasma theory, drinks a vial of live cholera bacilli from Koch's own laboratory in front of witnesses to disprove germ theory. He survives with mild illness.",
+		"content": "<p>A scientist drinking a plague to defend a wrong idea, in the same autumn Hamburg proves him wrong. There is no better image for this campaign's thesis about proof.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 7
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The first nationwide Columbus Day in the United States — called partly to soothe Italy after the New Orleans lynchings of eleven Italian-Americans in March 1891, for which Harrison paid a $25,000 indemnity.",
+		"content": "<p>A holiday invented as diplomatic damage control for a mass lynching.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 12
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Adventures of Sherlock Holmes is published in book form by George Newnes. Ten thousand copies.",
+		"content": "<p>Holmes is in the Great Hiatus and unavailable. The book is on every table anyway.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 14
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Dedication Day at the World's Columbian Exposition, Chicago — the fairground is dedicated with the buildings still unfinished. It does not open to the public until 1 May 1893.",
+		"content": "<p>The future, ceremonially opened before it is built.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 21
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "New Orleans: the Triple Alliance strikes on 24 October; a full general strike begins 8 November under the Workingmen's Amalgamated Council — over 30,000 workers, Black and white together. The militia comes out on the 10th and withdraws on the 11th. Settled by arbitration on the 12th: ten-hour day and overtime.",
+		"content": "<p>The employers tried to split it on race and failed — in the same city, in the same month, that Judge Ferguson ruled against Plessy. Both facts are true at once.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 24
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 11,
+			"day": 12
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Ida B. Wells publishes Southern Horrors: Lynch Law in All Its Phases — the first systematic statistical demolition of the pretext for lynching.",
+		"content": "<p>Someone counting, and publishing the count, against a story everyone found convenient.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 10,
+			"day": 26
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Grover Cleveland defeats Benjamin Harrison. The Populist James B. Weaver takes 22 electoral votes and four states — the only third party to carry a state between 1860 and 1912.",
+		"content": "<p>A real third force in American politics, briefly.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 11,
+			"day": 8
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "French troops occupy Abomey, capital of Dahomey.",
+		"content": "<p>The Scramble, running on schedule.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 11,
+			"day": 17
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Judge John Howard Ferguson rules against Homer Plessy: Louisiana may regulate railroads within its own borders. The Louisiana Supreme Court affirms in December.",
+		"content": "<p>Four years to the Supreme Court, and “separate but equal.”</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 11,
+			"day": 18
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Panama scandal breaks open in France. 800,000 investors lost roughly 1.8 billion gold francs; of 510 parliamentarians investigated, 104 were involved. Reinach kills himself before trial. Three governments fall.",
+		"content": "<p>Establishment corruption as public spectacle — and the antisemitic conspiracy press that feeds on it runs straight into Dreyfus.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 11,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 12,
+			"day": 31
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "Jules Verne publishes Le Château des Carpathes.",
+		"content": "<p>Carpathian Castle must happen before this — he has to live it first.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 11,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 12,
+			"day": 31
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "The German Conservative Party adopts the Tivoli programme at its Berlin congress, denouncing “Jewish influence on our national life” — the first major German party to write antisemitism into its platform.",
+		"content": "<p>Manufactured monsters, on a party letterhead. Beat 2's thesis with a date on it.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 12,
+			"day": 1
+		},
+		"endDate": {
+			"year": 1892,
+			"month": 12,
+			"day": 31
+		},
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "window"
+	},
+	{
+		"name": "The last full moon of 1892 (02:17 GMT).",
+		"content": "<p>The 51-year cycle from the 1841 Brasov murders. If the Laughter of Death has a night, this is it.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 12,
+			"day": 4
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "Anniversary of the Prince Consort's death, 1861 — Victoria has observed it for thirty-one years.",
+		"content": "<p>The same day of the month as her grandson's. The Queen's court is a permanent mourning ward, and 1892 gave it a second date.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 12,
+			"day": 14
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	},
+	{
+		"name": "The Nutcracker premieres at the Mariinsky, St Petersburg.",
+		"content": "<p>For contrast. The year also contained this.</p>",
+		"startDate": {
+			"year": 1892,
+			"month": 12,
+			"day": 18
+		},
+		"endDate": null,
+		"allDay": true,
+		"visibility": "hidden",
+		"kind": "fixed"
+	}
+]
