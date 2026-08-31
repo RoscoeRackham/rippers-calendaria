@@ -25,7 +25,8 @@ const CAL_ID = 'rippers-1892';
 const MOON_KEY = 'luna000000000000';
 const CALENDARIA_ID = 'calendaria';
 const CAL_SETTING_CUSTOM = 'customCalendars'; // Calendaria SETTINGS.CUSTOM_CALENDARS
-const SETUP_FLAG = 'setupComplete';
+const SETUP_FLAG = 'setupComplete'; // calendar activated + date set + almanac built
+const EVENTS_FLAG = 'eventsSeeded'; // events seeded (separate, so a fixed build re-seeds without redoing the clock)
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
 const log = (...a) => console.log(`${MODULE_ID} |`, ...a);
@@ -37,6 +38,7 @@ async function fetchJSON(rel) {
 
 Hooks.once('init', () => {
   game.settings.register(MODULE_ID, SETUP_FLAG, { scope: 'world', config: false, type: Boolean, default: false });
+  game.settings.register(MODULE_ID, EVENTS_FLAG, { scope: 'world', config: false, type: Boolean, default: false });
 });
 
 Hooks.once('calendaria.ready', async ({ api } = {}) => {
@@ -73,17 +75,23 @@ Hooks.once('calendaria.ready', async ({ api } = {}) => {
       warn('could not persist into Calendaria customCalendars (calendar still registered in-memory this session):', e);
     }
 
-    // 4) First-run world setup: activate, set date to 1 Jan 1892, seed events + almanac journal.
+    // 4) One-time world setup, split so a fixed build re-seeds events without touching the clock.
+    // 4a) Activate + set the date + build the almanac (once — never resets a clock the GM advanced).
     if (!game.settings.get(MODULE_ID, SETUP_FLAG)) {
       await api.setActiveCalendar(CAL_ID);
       await api.setDateTime({ year: 1892, month: 1, day: 1, hour: 0, minute: 0 }); // public 1-indexed → 1 Jan 1892 (Friday)
       log('activated rippers-1892 and set world date to 1 Jan 1892');
-
-      await seedEvents(api);
       await buildAlmanacJournal();
-
       await game.settings.set(MODULE_ID, SETUP_FLAG, true);
-      ui.notifications?.info('Rippers 1892 world clock installed: calendar, 12 exact full moons, and 60 events are live.');
+    }
+    // 4b) Seed events under their OWN flag. A world that ran an earlier build (which threw on the
+    // calendarnote subtype and left events unseeded) re-seeds here on update, with no duplicates.
+    if (!game.settings.get(MODULE_ID, EVENTS_FLAG)) {
+      const seeded = await seedEvents(api);
+      if (seeded) {
+        await game.settings.set(MODULE_ID, EVENTS_FLAG, true);
+        ui.notifications?.info('Rippers 1892: calendar, 12 exact full moons, and 60 events are live.');
+      }
     }
   } catch (err) {
     warn('setup failed:', err);
@@ -135,13 +143,20 @@ async function seedEvents(api) {
     fallback.push(...events);
   }
 
-  if (fallback.length) await buildEventsJournalFallback(fallback);
-  log(`events: ${native} native calendar notes + ${fallback.length} plain GM journal pages`);
+  let fallbackLanded = 0;
+  if (fallback.length) fallbackLanded = await buildEventsJournalFallback(fallback);
+  log(`events: ${native} native calendar notes + ${fallbackLanded} plain GM journal pages`);
+  return native > 0 || fallbackLanded > 0; // did anything land?
 }
 
 /** Fallback: land events as pages in one GM-only "1892 Events" journal so they never throw. */
 async function buildEventsJournalFallback(events) {
   try {
+    // idempotent: don't create a second fallback journal if one already exists
+    if (Array.from(game.journal ?? []).some((j) => j.getFlag(MODULE_ID, 'eventsFallback'))) {
+      log('events fallback journal already exists — skipping');
+      return 0;
+    }
     const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
     const span = (ev) => {
       const s = `1892-${String(ev.startDate.month).padStart(2, '0')}-${String(ev.startDate.day).padStart(2, '0')}`;
@@ -161,14 +176,21 @@ async function buildEventsJournalFallback(events) {
       flags: { [MODULE_ID]: { eventsFallback: true } },
     });
     log(`built GM fallback journal with ${pages.length} event pages`);
+    return pages.length;
   } catch (e) {
     warn('could not build the events fallback journal:', e);
+    return 0;
   }
 }
 
 /** Park the daily sunrise/sunset + moon illum in a GM-only almanac journal (min bar; not on the clock). */
 async function buildAlmanacJournal() {
   try {
+    // idempotent: don't create a second almanac if one already exists
+    if (Array.from(game.journal ?? []).some((j) => j.getFlag(MODULE_ID, 'almanac'))) {
+      log('almanac journal already exists — skipping');
+      return;
+    }
     const almanac = await fetchJSON('data/almanac-1892.json');
     const byMonth = Array.from({ length: 12 }, () => []);
     for (const d of almanac.days) byMonth[d.month].push(d);
