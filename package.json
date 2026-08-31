@@ -1,6 +1,6 @@
 {
 	"name": "rippers-calendaria",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"private": true,
 	"type": "module",
 	"description": "Rippers Unmasked — drives Calendaria's world clock to the exact 1892 Almanack (Foundry v13, Calendaria 1.0.17). Personal-table module.",

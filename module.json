@@ -2,7 +2,7 @@
 	"id": "rippers-calendaria",
 	"title": "Rippers Unmasked — 1892 Calendaria",
 	"description": "Drives Calendaria's world clock to the exact 1892 Almanack: the Gregorian year starting Friday 1 January 1892 (leap), an Earth moon whose 49 quarter-phases — including all 12 mechanically-live full moons — land on their real historical dates via Calendaria's anchorPhases config, and all 60 campaign events seeded as GM notes. Foundry VTT v13. Integrates against Calendaria release-1.0.17 (the last v13-compatible build — install 1.0.17 specifically, NOT latest). Original campaign content; a personal-table module, not for redistribution.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"url": "https://github.com/RoscoeRackham/rippers-calendaria",
 	"manifest": "https://github.com/RoscoeRackham/rippers-calendaria/releases/latest/download/module.json",
 	"download": "https://github.com/RoscoeRackham/rippers-calendaria/releases/latest/download/rippers-calendaria.zip",
@@ -42,7 +42,7 @@
 	},
 	"flags": {
 		"rippers-calendaria": {
-			"note": "Runtime integration only — no packs. On Calendaria's `calendaria.ready` hook this module derives a `rippers-1892` calendar from Calendaria's live `gregorian` (splicing in an Earth moon with a 49-entry anchorPhases table generated from lodge-docs/almanack-1892-data by tools/build-calendaria.mjs), registers it via CALENDARIA.api.addCalendar, persists it into Calendaria's customCalendars setting, and on first run (GM) sets it active, sets the date to 1 Jan 1892, seeds 60 GM notes, and builds a GM almanac journal. All 12 full moons land on their exact real dates via #findExactAnchor. No monkey-patching, no v12-removed hooks. Clearing the world flag rippers-calendaria.setupComplete re-runs first-run setup."
+			"note": "v0.1.1: event seeding is now RESILIENT — it seeds native Calendaria calendar notes only when the calendaria.calendarnote JournalEntryPage subtype is a registered valid type (game.documentTypes), and otherwise (or on any per-note failure) lands the events as pages in a plain GM \"1892 Events\" journal so they never throw the \"not a valid type for the JournalEntryPage\" validation error seen when Calendaria is not the pinned 1.0.17 build on v13. Moon/calendar registration unchanged. --- Runtime integration only — no packs. On Calendaria's `calendaria.ready` hook this module derives a `rippers-1892` calendar from Calendaria's live `gregorian` (splicing in an Earth moon with a 49-entry anchorPhases table generated from lodge-docs/almanack-1892-data by tools/build-calendaria.mjs), registers it via CALENDARIA.api.addCalendar, persists it into Calendaria's customCalendars setting, and on first run (GM) sets it active, sets the date to 1 Jan 1892, seeds 60 GM notes, and builds a GM almanac journal. All 12 full moons land on their exact real dates via #findExactAnchor. No monkey-patching, no v12-removed hooks. Clearing the world flag rippers-calendaria.setupComplete re-runs first-run setup."
 		}
 	}
 }
